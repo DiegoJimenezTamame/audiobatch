@@ -3,13 +3,13 @@
 A macOS desktop app for batch renaming and converting audio files. Built with Electron + React.
 
 ### Rename files
-![Rename](screenshots/rename.png)
+<img src="screenshots/rename.png" width="700"/>
 
 ### Convert format
-![Convert](screenshots/convert.png)
+<img src="screenshots/convert.png" width="700"/>
 
 ### Rename + Convert
-![Both](screenshots/both.png)
+<img src="screenshots/both.png" width="700"/>
 
 ## Prerequisites
 
