@@ -1,5 +1,7 @@
 # AudioBatch
 
+A macOS desktop app for batch renaming and converting audio files. Built with Electron + React.
+
 ### Rename files
 ![Rename](screenshots/rename.png)
 
@@ -8,8 +10,6 @@
 
 ### Rename + Convert
 ![Both](screenshots/both.png)
-
-A macOS desktop app for batch renaming and converting audio files. Built with Electron + React.
 
 ## Prerequisites
 
